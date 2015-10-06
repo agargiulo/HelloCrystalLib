@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/agargiulo/HelloCrystalLib.svg)](https://travis-ci.org/agargiulo/HelloCrystalLib)
 # HelloCrystalLib
 
 TODO: Write a description here
